@@ -6,3 +6,5 @@ C:> py get-pip.py in your terminal
 then run-> pip install pyspellchecker in your terminal , Done
 
 3)A simple password generator with two different modes easy and jubled(difficult) based on user requirements
+
+4)A simple hangman game to guess word with ASCII characters
